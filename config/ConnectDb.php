@@ -28,6 +28,7 @@
         // private $username = 'root';
 
         //Remote or production mode
+        
         private $server = 'remotemysql.com';
         private $dbName = '1Li4NKeArq';
         private $password = 'Y9KYNbMVyy';
