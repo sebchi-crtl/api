@@ -47,7 +47,7 @@
             }
         }
     }
-    $check = new ConnectDb();
-    $check->connectName();
+//     $check = new ConnectDb();
+//     $check->connectName();
 
 ?>
