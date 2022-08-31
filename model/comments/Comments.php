@@ -41,7 +41,7 @@
       FROM
         ' . $this->table . '
       Group BY
-        MovieName';
+        CommentsId';
 
       // Prepare statement
       $stmt = $this->conn->prepare($query);
