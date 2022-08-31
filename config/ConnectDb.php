@@ -22,10 +22,18 @@
 
         
 
-        private $server = 'localhost';
-        private $dbName = 'testing';
-        private $password = '1234';
-        private $username = 'root';
+       //Debug mode
+        // private $server = 'localhost';
+        // private $dbName = 'testing';
+        // private $password = '1234';
+        // private $username = 'root';
+
+        //Remote or production mode
+        
+        private $server = 'remotemysql.com';
+        private $dbName = '1Li4NKeArq';
+        private $password = 'Y9KYNbMVyy';
+        private $username = '1Li4NKeArq';
 
         public function connect(){
 
