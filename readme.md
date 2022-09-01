@@ -24,4 +24,5 @@ server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/8.0.13
 
 #This text is completely ignored by kramdown - a comment in the text.
 
+I couldn't finish the character because i dont know the requirements and i need more information / understanding oh well
 enjoy :nerd_face:
