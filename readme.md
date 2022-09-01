@@ -1,6 +1,8 @@
 # About Core PHP
 A small set of rest API endpoints using PHP (CORE) that can be used for listing the names of books along with their authors and comment counts, adding and listing anonymous comments for a book, and getting the character list for a book
 
+This was hosted on heroku server
+
 The data was fetched online from https://anapioficeandfire.com/
 
 Documentation
@@ -8,8 +10,8 @@ Documentation for the project can be found on the Postman.
 
 ## Endpoints 
 <!-- get book, authors and comments count -->
-http://localhost/testing/api/books
-http://localhost/testing/api/comments
+https://findwork-backend.herokuapp.com/books
+https://findwork-backend.herokuapp.com/comments
 
 [access-control-allow-origin: *
 connection: Keep-Alive
