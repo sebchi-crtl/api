@@ -9,6 +9,7 @@ Documentation for the project can be found on the Postman.
 ## Endpoints 
 <!-- get book, authors and comments count -->
 http://localhost/testing/api/books
+http://localhost/testing/api/comments
 
 [access-control-allow-origin: *
 connection: Keep-Alive
